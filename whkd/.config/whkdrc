@@ -1,0 +1,6 @@
+# whkdrc – Linux hotkey daemon configuration
+# Replace the example shortcuts below with those you need for your Linux WM (e.g., sway, i3, hyprland).
+# Example (sway):
+# alt + Return : exec alacritty
+# alt + d      : exec rofi -show drun
+# Add your own bindings here.
